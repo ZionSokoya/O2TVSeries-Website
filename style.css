@@ -1,0 +1,28 @@
+* { 
+ margin-left: 5px; 
+ padding: 0; 
+ box-sizing: border-box; 
+	} 
+a	{
+	text-decoration:none;
+	color:rgb(87,90,6);
+	
+	}
+a .linkcol{
+	color:black;
+}
+.navbar{
+	background-color:#5d648e;
+	overflow:hidden;
+	}
+.navbar a{
+	color:white;
+}
+table tr td {
+		border-collapse:collapse;
+		border-bottom:dashed;
+		border-bottom-color:#7fb6da;
+		border-width:1px;
+		padding-top:4px;
+		padding-bottom:4px;
+}
